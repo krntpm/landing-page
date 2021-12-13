@@ -1,0 +1,12 @@
+.landing-page {
+      background-color: white;
+      border-radius: 2rem;
+      height: 16rem;
+      width: 29rem;
+      margin-left: 32rem;
+      margin-top: 10rem;
+}
+.login-box {
+    text-align: center;
+    padding: 1rem;
+}
